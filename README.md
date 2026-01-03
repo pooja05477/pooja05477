@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Pooja 
 
-<!--
-**pooja05477/pooja05477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Graduate  
+📘 Currently pursuing Data Science  
+💻 Aspiring Data Analyst | Machine Learning Beginner  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python
+- Data Science (Learning)
+- Machine Learning (Basics)
+- Data Analysis
+- Pandas, NumPy
+- MS Excel
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🩺 Liver Disease Prediction using Machine Learning  
+*(More projects will be added soon)*
+
+## 🌱 Currently Learning
+- Python for Data Science
+- Machine Learning Algorithms
+- Data Visualization
+- Statistics for Data Science
+
+## 🎯 Career Goal
+To start my career as a **Data Science / Data Analyst Fresher** and work on real-world data projects.
+
+## 📫 Connect with Me
+- LinkedIn:https://www.linkedin.com/in/pooja-shivani-39270533b
+- Email: poojashivani804@gmail.com
